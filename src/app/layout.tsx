@@ -17,9 +17,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Île Adun | Fine Dining Restaurant",
+  title: "Ilé Adùn | Authentic Nigerian Meals, Soups, Grills & Drinks",
   description:
-    "Experience culinary excellence at Île Adun. Locally sourced ingredients crafted to perfection in an elegant, modern setting.",
+    "Discover Ilé Adùn's full menu of Nigerian favorites, from breakfast combos and native rice to pepper soup, platters, shawarma, cocktails, and traditional tea.",
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
