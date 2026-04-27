@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8E1E1A"/>
+      <stop offset="1" stop-color="#C84D3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="170" y="180" width="860" height="440" rx="40" fill="#2B0F0E" fill-opacity="0.28"/>
+  <path d="M460 290H740L700 560H500L460 290Z" fill="#F5DAB4"/>
+  <rect x="560" y="220" width="80" height="80" rx="18" fill="#F5DAB4"/>
+  <rect x="530" y="360" width="140" height="170" rx="20" fill="#B13D30"/>
+  <circle cx="565" cy="420" r="12" fill="#F2B170"/>
+  <circle cx="635" cy="450" r="12" fill="#F2B170"/>
+  <text x="120" y="126" fill="#FFF1E2" font-family="Georgia, serif" font-size="66" font-weight="700">Drink</text>
+</svg>

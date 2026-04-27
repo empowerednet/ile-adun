@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A1A12"/>
+      <stop offset="1" stop-color="#BE6A2D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="120" y="170" width="960" height="460" rx="42" fill="#2B140E" fill-opacity="0.3"/>
+  <ellipse cx="600" cy="450" rx="240" ry="88" fill="#F6DAB3"/>
+  <ellipse cx="600" cy="440" rx="200" ry="64" fill="#B26D3A"/>
+  <circle cx="790" cy="445" r="42" stroke="#F6DAB3" stroke-width="18"/>
+  <path d="M560 340C560 300 600 280 600 250" stroke="#FFD8A9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M640 340C640 300 680 280 680 250" stroke="#FFD8A9" stroke-width="12" stroke-linecap="round"/>
+  <text x="120" y="126" fill="#FFF1DE" font-family="Georgia, serif" font-size="48" font-weight="700">Arabian Traditional Tea</text>
+</svg>

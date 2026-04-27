@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8A291C"/>
+      <stop offset="1" stop-color="#F09F44"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="140" y="180" width="920" height="440" rx="40" fill="#25110B" fill-opacity="0.28"/>
+  <rect x="420" y="290" width="120" height="280" rx="42" fill="#F6D7AD"/>
+  <rect x="660" y="290" width="120" height="280" rx="42" fill="#F6D7AD"/>
+  <rect x="440" y="390" width="80" height="150" rx="28" fill="#C9622E"/>
+  <rect x="680" y="390" width="80" height="150" rx="28" fill="#D48A3A"/>
+  <text x="120" y="126" fill="#FFF0DE" font-family="Georgia, serif" font-size="52" font-weight="700">Ile Adun Mocktails</text>
+</svg>

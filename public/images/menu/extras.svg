@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A74421"/>
+      <stop offset="1" stop-color="#F0A14B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="160" y="180" width="880" height="440" rx="38" fill="#26120D" fill-opacity="0.28"/>
+  <rect x="270" y="290" width="180" height="220" rx="22" fill="#F7D6A8"/>
+  <rect x="510" y="290" width="180" height="220" rx="22" fill="#F0BF7D"/>
+  <rect x="750" y="290" width="180" height="220" rx="22" fill="#E7A85A"/>
+  <text x="120" y="126" fill="#FFF4E8" font-family="Georgia, serif" font-size="64" font-weight="700">Extras</text>
+</svg>

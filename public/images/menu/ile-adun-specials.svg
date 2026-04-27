@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8A1412"/>
+      <stop offset="1" stop-color="#3E090D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="180" cy="150" r="120" fill="#FDBA6A" fill-opacity="0.22"/>
+  <circle cx="1020" cy="660" r="160" fill="#FDBA6A" fill-opacity="0.22"/>
+  <rect x="190" y="190" width="820" height="420" rx="36" fill="#F8D19A"/>
+  <rect x="240" y="250" width="720" height="300" rx="26" fill="#702114"/>
+  <path d="M600 280L645 380H750L665 440L700 540L600 475L500 540L535 440L450 380H555L600 280Z" fill="#FBC46F"/>
+  <text x="120" y="126" fill="#FFF2DE" font-family="Georgia, serif" font-size="58" font-weight="700">Ile Adun Specials</text>
+</svg>

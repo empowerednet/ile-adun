@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9A2E1C"/>
+      <stop offset="1" stop-color="#E4923E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="150" y="170" width="900" height="460" rx="42" fill="#2B110C" fill-opacity="0.28"/>
+  <path d="M450 560L600 250L750 560H450Z" fill="#F6D6AA"/>
+  <path d="M500 530L600 320L700 530H500Z" fill="#B05A2A"/>
+  <circle cx="600" cy="438" r="12" fill="#7E2717"/>
+  <circle cx="560" cy="488" r="12" fill="#7E2717"/>
+  <circle cx="640" cy="488" r="12" fill="#7E2717"/>
+  <text x="120" y="126" fill="#FFF2E2" font-family="Georgia, serif" font-size="54" font-weight="700">Ile Adun Shawarma</text>
+</svg>

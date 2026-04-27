@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6A13A"/>
+      <stop offset="1" stop-color="#8E2E16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="940" cy="170" r="170" fill="#FFD79A" fill-opacity="0.28"/>
+  <rect x="120" y="180" width="960" height="440" rx="44" fill="#1C120F" fill-opacity="0.28"/>
+  <ellipse cx="600" cy="420" rx="230" ry="118" fill="#FBE5BE"/>
+  <ellipse cx="600" cy="410" rx="190" ry="90" fill="#8D4A1B"/>
+  <circle cx="530" cy="385" r="20" fill="#E6A85B"/>
+  <circle cx="600" cy="430" r="18" fill="#E6A85B"/>
+  <circle cx="670" cy="385" r="19" fill="#E6A85B"/>
+  <text x="120" y="130" fill="#FFF6EA" font-family="Georgia, serif" font-size="58" font-weight="700">Breakfast Combo</text>
+</svg>
